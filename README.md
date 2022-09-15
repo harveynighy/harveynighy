@@ -9,3 +9,6 @@ Recognising my passion for development i got a job as a junior web dev at a digi
 As i have mentioned my first language was python were i have dabbled with neural networks and machine learning using tensorflow and pytorch. I am very interested in cryptocurrency's therefor i have been building a binance crypto tracker and plan on implementing automatic technical analysis in the near future.
 
 I have experience in developing custom themes for wordpress websites and also using a popular plug in called ACF Pro. I am currently looking into MERN stack apps so watch out for that in the near future.
+
+
+## PHP is great and you can't convince me it's not :upside_down_face:
